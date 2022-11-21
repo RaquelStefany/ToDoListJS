@@ -20,5 +20,6 @@ function addTarefa(){
                                 </div>
                                 <br>`;
         document.getElementById('tarefa').value = "";
+        cont++;
     }
 }
